@@ -6,6 +6,8 @@
 .navbarElement {
   background-color: #40FCFF;
   border-radius: 10px;
+  font-size: 15px;
+  font: arial;
 }
 .navbarElement:hover {
   backgrond-color: #3AE8BA;
