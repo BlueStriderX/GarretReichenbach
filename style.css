@@ -36,3 +36,9 @@
   padding: 5px;
   display: inline-block;
 }
+
+.navbarBox {
+  background-color: darkgrey;
+  border-radius: 5px;
+  padding: 5px;
+}
