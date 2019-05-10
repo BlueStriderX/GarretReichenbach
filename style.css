@@ -1,0 +1,16 @@
+.navbarContainer {
+  background-color: #52CC52;
+  padding: 20px;
+}
+
+.navbar {
+
+}
+
+.navbarElements {
+  display: inline;
+}
+
+.navbarElement {
+  background-color: #66FF66;
+}
