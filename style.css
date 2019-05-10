@@ -2,3 +2,12 @@
   background-color: #4CFF9D;
   border-radius: 10px;
 }
+
+.navbarElement {
+  background-color: #40FCFF;
+  border-radius: 10px;
+}
+.navbarElement:hover {
+  backgrond-color: #3AE8BA;
+  border-radius: 5px;
+}
